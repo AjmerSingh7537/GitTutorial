@@ -1,5 +1,5 @@
 print("hello world!")
 
-print("my name is ajmer")
+print("my name is ajay")
 
-print("my favorite color is blue")
+print("my favorite color is red")
