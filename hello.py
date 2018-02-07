@@ -5,3 +5,5 @@ print("my name is ajmer")
 print("my favorite color is blue")
 
 print("my favorite color is orange")
+
+print("my favorite color is orange")
